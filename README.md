@@ -2,4 +2,4 @@
 Creating practical BioHack solutions
 
 Hi there, Mirzel here. 
-I like solving problems, and my goal with this project is to experiment with plants and bacterias to see how we can apply their  properties into our lives.
+I like solving problems, and my personal project is about experimenting with plants, bacteria and edible cutlery.
